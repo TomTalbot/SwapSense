@@ -1,3 +1,3 @@
 # SwapSense
 
-SwapSense is a tool to analyse team compositions in Overwatch 2 by evaulating synergy, counter-picks, and role capability to generate a data-backed prediction of the matches outcome. The tool will analyse any given team comp against their opponents and determine the likelihood of a win, an alternative comp to run and strats that could prove to be effective against the enemy team. The tool will utilise a python backend using flask and a tailwind frontend. 
+SwapSense is a tool designed to analyse team compositions in Overwatch 2 by evaluating synergy, counter-picks, and role effectiveness to generate data-driven predictions of match outcomes. The application allows users to input both allied and enemy team compositions, providing insights into win probability, suggested alternative picks, and strategies that may be effective against the opposing team. SwapSense is built using a Python backend with Flask and a Tailwind CSS frontend.
